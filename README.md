@@ -21,6 +21,7 @@ An automated vulnerability scanning tool that helps security researchers and sys
 
 
 git clone https://github.com/aravind603/auto-vuln-scanner.git
+
 cd auto-vuln-scanner
 
 2. Install dependencies
