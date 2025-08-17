@@ -1,0 +1,8 @@
+README.md
+setup.py
+auto_vuln_scanner.egg-info/PKG-INFO
+auto_vuln_scanner.egg-info/SOURCES.txt
+auto_vuln_scanner.egg-info/dependency_links.txt
+auto_vuln_scanner.egg-info/entry_points.txt
+auto_vuln_scanner.egg-info/requires.txt
+auto_vuln_scanner.egg-info/top_level.txt
