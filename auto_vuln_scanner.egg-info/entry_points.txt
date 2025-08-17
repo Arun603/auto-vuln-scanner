@@ -1,2 +1,0 @@
-[console_scripts]
-auto-vuln-scanner = main:main
